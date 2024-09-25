@@ -1,5 +1,3 @@
-
-
 const customer = {
   username: "Mango",
   balance: 24000,
@@ -24,6 +22,7 @@ const customer = {
   },
   // Change code above this line
 };
+
 
 
 customer.setDiscount(0.15);
